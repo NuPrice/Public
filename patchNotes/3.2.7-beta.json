@@ -1,0 +1,14 @@
+{
+	"new": ["Patch notes can now view all notes within system.",
+		"Added context menu."
+	],
+	"fixes": [
+		"Fixed calendar formatting issues.",
+		"Fixed issue with current notification not closing out after acknowledge.",
+		"Changed top formatting to match search bar and buttons better.",
+		"Fixed tooltip offset issue with some computers.",
+		"Issue with scoutIQ variable causing issues when you had no scoutIQ login.",
+		"Fixed Repair App button.",
+		"Removed Patch notes button."
+	]
+}
